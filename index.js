@@ -8,7 +8,7 @@ const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`Web server running on port ${port}`));
 
 // --- Bot Settings ---
-const server_ip = 'YOUR_SERVER_IP_HERE'; // Replace with your actual Server IP
+const server_ip = 'in4-1.shulker.in'; // Replace with your actual Server IP
 const server_port = 2843; // Your server port
 const bot_name = 'Zyqorinx_Bot';
 
